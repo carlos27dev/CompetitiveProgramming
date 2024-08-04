@@ -1,4 +1,4 @@
-package org.carlosarriaga.codeforces.round961div2;
+package org.carlosarriaga.codeforces.round961.a;
 
 import java.util.Scanner;
 
